@@ -1,3 +1,7 @@
 [user]
     email = <insert email address>
     name = <insert email address>
+
+# http protocol file size limit issue
+[http]
+    postBuffer = 1048576000
